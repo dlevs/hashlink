@@ -1,0 +1,29 @@
+{
+  "name": "hashlink",
+  "version": "0.0.1",
+  "description": "Create symbolic links with hash-revisioned filenames for cache-busting.",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file",
+    "hash",
+    "rev",
+    "revision",
+    "revisioning",
+    "cache",
+    "cache bust",
+    "symbolic link"
+  ],
+  "author": "Daniel Levett <dlevett@hotmail.co.uk>",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "fs-extra": "^4.0.2",
+    "glob": "^7.1.2",
+    "path-type": "^3.0.0",
+    "rev-hash": "^2.0.0"
+  }
+}
