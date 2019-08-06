@@ -8,7 +8,7 @@ It outputs a manifest JSON which maps the original filepaths to the links. This 
 ## Install
 ```bash
 npm install -e hashlink@0.0.1
-# versions above 0.0.1 may refer to a different package.
+# Versions above 0.0.1 may refer to a different package.
 # This project is no longer published on npm or actively maintained.
 ```
 
